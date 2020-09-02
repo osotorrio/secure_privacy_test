@@ -1,7 +1,7 @@
 ## Introduction
 
 This repository contains both tasks requested.
-- [Task 1](https://github.com/osotorrio/secure_privacy_test/tree/master/CrudTweetsApp). API CRUD using ServiceStack, MongoDB and aggregates
+- [Task 1](https://github.com/osotorrio/secure_privacy_test/tree/master/CrudTweetsApp). API CRUD using ServiceStack, MongoDB and [aggregates](https://github.com/osotorrio/secure_privacy_test/blob/master/CrudTweetsApp/CrudTweetsApp.Repositories/ITweetRepository.cs#L70)
 - [Task 2](https://github.com/osotorrio/secure_privacy_test/tree/master/ValidBinaryString/ValidBinaryString.Tests). Binary string manipulation
 
 For this exercise I have taken some simplifications which would never happen in a production ready application. Please, allow me to list them below. Thank you very much for taking the time of reading this.
