@@ -18,5 +18,5 @@ For this exercise I have taken some simplifications which would never 
 - open a command prompt in this folder of the solution: ./CrudTweetsApp/CrudTweetsApp
 - build the application: ***dotnet build***
 - run the application watching: ***dotnet watch run***
-- if your local MongoDB server is open another command prompt at: C:\Program Files\MongoDB\Server\4.4\bin
+- if your local MongoDB server is not running already, open another command prompt at: C:\Program Files\MongoDB\Server\4.4\bin
 - run ***mongo.exe***
