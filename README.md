@@ -4,8 +4,7 @@ This repository contains both tasks requested.
 - Task 1. API CRUD using ServiceStack, MongoDB and aggregates
 - Task 2. Binary string manipulation
 
-For this exercise I have taken some simplifications which would never happen in a production ready application. Please, allow me to list them below.
-Thank you very much for taking the time of reading this.
+For this exercise I have taken some simplifications which would never happen in a production ready application. Please, allow me to list them below. Thank you very much for taking the time of reading this.
 
 ## Task 1 simplications
 
