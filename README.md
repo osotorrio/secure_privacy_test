@@ -9,7 +9,7 @@ For this exercise I have taken some simplifications which would never 
 ## Task 1 simplications
 
 - The business model of the application has been minimized for the purpose of the exercise. It is a collection of tweets published by different users. 
-- Since the exercise has little business rules, it is just a CRUD, no business logic layer has implemented.
+- Since the exercise has little business rules, it is just a CRUD, no business logic layer has been implemented.
 - For that reason there are just some unit tests. But all API endpoints have been covered by integration tests.
 - Application and integration tests are both running against the local database. In a real application we would have a database for each environment.  
 - No logging framework has been used. Obviously in a production application we should log information of how the application is behaving.
